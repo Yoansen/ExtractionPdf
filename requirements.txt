@@ -2,3 +2,4 @@ streamlit
 fastapi
 uvicorn
 PyMuPDF
+python_multipart
